@@ -1,4 +1,4 @@
-from OSLogManagement import os_log_parameters, show_last_log
+from OSLogManagement import os_log_parameters
 
 # +1 cube. Questions:  To get the flag, start the above exercise, then use cURL to download the file returned by '/download.php' in the server shown above.
 
